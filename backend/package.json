@@ -1,0 +1,15 @@
+{
+  "name": "convoapp",
+  "version": "1.0.0",
+  "description": "Word to pdf convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "word-to-pdf"
+  },
+  "author": "Ayush Singh",
+  "license": "ISC"
+}
