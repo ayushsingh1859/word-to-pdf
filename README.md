@@ -20,7 +20,7 @@ A simple **Word to PDF** converter built with **React** and **Node.js**. Upload 
 ---
 ## 🧑‍💻 Getting Started
 
-### 1. Clone the Repository:
+###  Clone the Repository:
 ```bash
 git clone https://github.com/ayushsingh1859/word-to-pdf.git
 cd word-to-pdf
