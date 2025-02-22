@@ -17,4 +17,31 @@ A simple **Word to PDF** converter built with **React** and **Node.js**. Upload 
 - **Backend**: Node.js, Express.js
 - **Utilities**: Axios for HTTP requests
 
+---
+## 🧑‍💻 Getting Started
 
+### 1. Clone the Repository:
+```bash
+git clone https://github.com/ayushsingh1859/word-to-pdf.git
+cd word-to-pdf
+
+## Setup the Backend:
+cd backend
+npm install
+npm start
+
+##Setup the Frontend:
+cd frontend
+npm install
+npm run dev
+
+##you are Good to GO!!
+---
+🤝 Contributing
+Contributions are welcome! Feel free to open issues or pull requests to improve the project.
+
+Fork the repository.
+Create a feature branch: git checkout -b feature/your-feature
+Commit changes: git commit -m "Add your feature"
+Push the branch: git push origin feature/your-feature
+Open a pull request.
