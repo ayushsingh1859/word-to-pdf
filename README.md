@@ -1,6 +1,6 @@
 # 📝 Word to PDF Converter
 
-A simple **Word to PDF** converter built with **React** and **Node.js**. Upload `.doc` or `.docx` files and download them as PDFs instantly.
+A simple **Word to PDF** converter built with **React** and **Node.js**. Upload `.doc` or `.docx` files and download them as PDFs instantly..
 
 ---
 
